@@ -182,5 +182,3 @@ This assistant serves strictly as an informational and platform navigation guide
 
 This project is licensed under the MIT License.
 =======
-# platform-assistant
->>>>>>> 896abf10d419dd1eafa7db221d20ebc8d849e78b

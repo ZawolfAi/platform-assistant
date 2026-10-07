@@ -107,8 +107,6 @@ python test_assistant.py
 python run.py
 ```
 
-The server will start on `http://127.0.0.1:8000`. Interactive Swagger API documentation will be available at **`http://127.0.0.1:8000/docs`**.
-
 ---
 
 ## 📡 API Reference

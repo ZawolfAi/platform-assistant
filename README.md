@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CareOS Platform Assistant — Intelligent RAG Service
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)

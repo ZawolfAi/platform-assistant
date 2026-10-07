@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareOS Platform Assistant — Intelligent RAG Service
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
@@ -181,3 +182,6 @@ This assistant serves strictly as an informational and platform navigation guide
 ## 📄 License
 
 This project is licensed under the MIT License.
+=======
+# platform-assistant
+>>>>>>> 896abf10d419dd1eafa7db221d20ebc8d849e78b

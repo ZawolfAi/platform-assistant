@@ -4,6 +4,9 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Groq](https://img.shields.io/badge/LLM-Groq%20Free%20OSS-f55036.svg?style=flat)](https://groq.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+## 🛡️ Medical Safety & Disclaimer
+
+This assistant serves strictly as an informational and platform navigation guide. It is programmed not to deliver clinical diagnoses, emergency triage, or prescription alterations. In emergencies, users are instructed to contact their local emergency medical services immediately.
 
 A high-performance, headless **Retrieval-Augmented Generation (RAG)** chatbot service built for [CareOS](https://careos-pearl.vercel.app/) — the clinical intelligence workspace.
 
@@ -170,11 +173,6 @@ Returns recommended starter chips for both English and Arabic users.
 
 ---
 
-## 🛡️ Medical Safety & Disclaimer
-
-This assistant serves strictly as an informational and platform navigation guide. It is programmed not to deliver clinical diagnoses, emergency triage, or prescription alterations. In emergencies, users are instructed to contact their local emergency medical services immediately.
-
----
 
 ## 📄 License
 

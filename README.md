@@ -20,7 +20,7 @@ This assistant is designed to guide prospective users, patients, and healthcare 
 * **Dual-Audience Intelligence:**
   * **For Patients:** Details the Patient Portal, appointment tracking, accessing approved lab results & physician notes, and secure communication.
   * **For Healthcare Teams:** Explains ambient consultation recording, speech-to-text dictation, AI draft SOAP notes with doctor approval, and document OCR evidence chains.
-* **Bilingual & Dialect-Aware:** Automatically detects language and responds naturally in English, Modern Standard Arabic, or Egyptian Arabic (`عامية مصرية`) with dynamic RTL support.
+* **Bilingual & Dialect-Aware:** Automatically detects language and responds naturally in English, Modern Standard Arabic, or Egyptian Arabic with dynamic RTL support.
 * **Ultra-Fast Free OSS Inference:** Powered by Groq's high-speed inference engine (`llama-3.3-70b-versatile`, `qwen/qwen3.8-27b`) with sub-2-second responses.
 * **Strict Linking Policy:** Answers informational questions directly without unsolicited sign-in links; provides direct deep links (`/signin` and `/`) only when the user explicitly asks how to log in or register.
 * **Headless REST API:** Easily integrates into any web application, mobile app, or frontend widget via standardized JSON endpoints.
